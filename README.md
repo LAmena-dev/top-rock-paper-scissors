@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-An [interactive Rock-Paper-Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) Javascript practice project using functions and the Math module.
+An [interactive Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) Javascript practice project using functions and the Math module.
 
 ## Technology Used
 * HTML
