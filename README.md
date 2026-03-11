@@ -11,6 +11,8 @@ An [interactive Rock Paper Scissors](https://www.theodinproject.com/lessons/foun
 * Result detection
 * 5 rounds
 <hr>
+Part of the <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum
+<br><br>
 rock image source: https://commons.wikimedia.org/wiki/File:Rock_gypsum_%28gyprock%29_1.jpg
 <br>
 license: https://creativecommons.org/licenses/by/2.0/
